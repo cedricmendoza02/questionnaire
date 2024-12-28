@@ -187,15 +187,189 @@
                     },
                     {
                         "q": "(give) The doctors ___ medicine",
-                        "correctAns": 2,
+                        "correctAns": 0,
                         "answer": -1,
-                        "answers": ["fixs", "fixed", "fixes"]
+                        "answers": ["give", "gives", "gave"]
                     },
                     {
                         "q": "(catch) The police officers ___ the robbers.",
                         "correctAns": 2,
                         "answer": -1,
                         "answers": ["caught", "catching", "catches"]
+                    }
+                ],
+                "score": 0
+            },
+            "simple_past_tense_of_the_verb_1": {
+                "instructions": "(verbs ending with e) Identify the correct past tense of the verb",
+                "questions": [
+                    {
+                        "q": "Dance",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Dances", "Danced", "Dance"]
+                    },
+                    {
+                        "q": "Vote",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Vote", "Votes", "Voted"]
+                    },
+                    {
+                        "q": "Bake",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Baking", "Bakes", "Baked"]
+                    },
+                    {
+                        "q": "Agree",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Agrees", "Agreeing", "Agreed"]
+                    },
+                    {
+                        "q": "Educate",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Education", "Educating", "Educated"]
+                    },
+                    {
+                        "q": "Cycle",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Cycling", "Cycled", "Cyclist"]
+                    },
+                    {
+                        "q": "Crave",
+                        "correctAns": 0,
+                        "answer": -1,
+                        "answers": ["Craved", "Craving", "Craves"]
+                    },
+                    {
+                        "q": "Tickle",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Tickles", "Tickled", "Tickle"]
+                    }
+                ],
+                "score": 0
+            },
+            "simple_past_tense_of_the_verb_2": {
+                "instructions": "For most verbs, just add -ed at the end. Not all words need to have -d or -ed added at the end.",
+                "questions": [
+                    {
+                        "q": "Cook",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Cooks", "Cook", "Cooked"]
+                    },
+                    {
+                        "q": "Play",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Playing", "Plays", "Played"]
+                    },
+                    {
+                        "q": "Stay",
+                        "correctAns": 0,
+                        "answer": -1,
+                        "answers": ["Stayed", "Stay", "Stays"]
+                    },
+                    {
+                        "q": "Pray",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Prays", "Praying", "Prayed"]
+                    },
+                    {
+                        "q": "Fix",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Fixes", "Fixing", "Fixed"]
+                    },
+                    {
+                        "q": "Mix",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Mixing", "Mixed", "Mixes"]
+                    }
+                ],
+                "score": 0
+            },
+            "simple_past_tense_of_the_verb_3": {
+                "instructions": "If the verb ends with -y is beside a consonant, change <strong>-y</strong> to <strong>-i<strong> then add <strong>-ed</strong>",
+                "questions": [
+                    {
+                        "q": "Fry",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Fries", "Frying", "Fried"]
+                    },
+                    {
+                        "q": "Cry",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Cryed", "Cryd", "Cried"]
+                    },
+                    {
+                        "q": "Try",
+                        "correctAns": 0,
+                        "answer": -1,
+                        "answers": ["Tryed", "Tryd", "Tried"]
+                    },
+                    {
+                        "q": "Say",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Sayed", "Sayd", "Said"]
+                    }
+                ],
+                "score": 0
+            },
+            "simple_past_tense_of_the_verb_4": {
+                "instructions": "Some words have a different word altogether.",
+                "questions": [
+                    {
+                        "q": "Go",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Goes", "Goed", "Went"]
+                    },
+                    {
+                        "q": "Fly",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Flyed", "Flys", "Flew"]
+                    },
+                    {
+                        "q": "Ride",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Rided", "Rides", "Rode"]
+                    },
+                    {
+                        "q": "Write",
+                        "correctAns": 0,
+                        "answer": -1,
+                        "answers": ["Writed", "Writes", "Wrote"]
+                    },
+                    {
+                        "q": "Take",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Taken", "Took", "Taked"]
+                    },
+                    {
+                        "q": "Run",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Runned", "Runs", "Ran"]
+                    },
+                    {
+                        "q": "Make",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Makes", "Maked", "Made"]
                     }
                 ],
                 "score": 0
