@@ -1,7 +1,55 @@
 {
-    "grade_1": {
-        "language": 
-        {
+    "grade_1": 
+    {
+        "language": {
+            "identifying_subjects": {
+                "instructions": "Identifying Subjects",
+                "questions": [
+                    {
+                        "q": "My Grave Digger is awesome",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["my", "Grave Digger", "awesome"]
+                    },
+                    {
+                        "q": "The Zombie Monster Truck is doing wheelie on the track",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["track", "wheelie", "Zombie Monster Truck"]
+                    },
+                    {
+                        "q": "I study language subject",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["subject", "I", "language"]
+                    },
+                    {
+                        "q": "Clarence loves playing with his brother, Caleb",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["brother", "Caleb", "Clarence"]
+                    },
+                    {
+                        "q": "Mommy Alyssa loves my Daddy Cedric",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Daddy Cedric", "Mommy Alyssa", "loves"]
+                    },
+                    {
+                        "q": "The TV is playing a movie",
+                        "correctAns": 0,
+                        "answer": -1,
+                        "answers": ["TV", "movie", "playing"]
+                    },
+                    {
+                        "q": "My Lolo is going to take us outside to play",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["us", "Lolo", "My"]
+                    }
+                ],
+                "score": 0
+            },
             "sentence_nonsentence_1": {
                 "instructions": "Sentence or non-sentence(Phrase)",
                 "questions": [
@@ -313,7 +361,7 @@
                     },
                     {
                         "q": "Try",
-                        "correctAns": 0,
+                        "correctAns": 2,
                         "answer": -1,
                         "answers": ["Tryed", "Tryd", "Tried"]
                     },
@@ -349,13 +397,13 @@
                     },
                     {
                         "q": "Write",
-                        "correctAns": 0,
+                        "correctAns": 2,
                         "answer": -1,
                         "answers": ["Writed", "Writes", "Wrote"]
                     },
                     {
                         "q": "Take",
-                        "correctAns": 2,
+                        "correctAns": 1,
                         "answer": -1,
                         "answers": ["Taken", "Took", "Taked"]
                     },
@@ -464,54 +512,60 @@
                 ],
                 "score": 0
             },
-            "identifying_subjects": {
-                "instructions": "Identifying Subjects",
+            "present_progressive_tense_of_the_verb_1": {
+                "instructions": "identiy the correct verb. Present progressive tense means the action is happening now or ongoing. Add -ing at the end of the verb to indicate a present progressive tense of the verb",
                 "questions": [
                     {
-                        "q": "My Grave Digger is awesome",
-                        "correctAns": 1,
-                        "answer": -1,
-                        "answers": ["my", "Grave Digger", "awesome"]
-                    },
-                    {
-                        "q": "The Zombie Monster Truck is doing wheelie on the track",
+                        "q": "Watch",
                         "correctAns": 2,
                         "answer": -1,
-                        "answers": ["track", "wheelie", "Zombie Monster Truck"]
+                        "answers": ["Watched", "Watches", "Watching"]
                     },
                     {
-                        "q": "I study language subject",
-                        "correctAns": 1,
-                        "answer": -1,
-                        "answers": ["subject", "I", "language"]
-                    },
-                    {
-                        "q": "Clarence loves playing with his brother, Caleb",
+                        "q": "Play",
                         "correctAns": 2,
                         "answer": -1,
-                        "answers": ["brother", "Caleb", "Clarence"]
+                        "answers": ["Played", "Plays", "Playing"]
                     },
                     {
-                        "q": "Mommy Alyssa loves my Daddy Cedric",
+                        "q": "Study",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Studied", "Studies", "Studying"]
+                    },
+                    {
+                        "q": "Write",
                         "correctAns": 1,
                         "answer": -1,
-                        "answers": ["Daddy Cedric", "Mommy Alyssa", "loves"]
+                        "answers": ["Wrote", "Writing", "Writes"]
                     },
                     {
-                        "q": "The TV is playing a movie",
-                        "correctAns": 0,
+                        "q": "Sing",
+                        "correctAns": 2,
                         "answer": -1,
-                        "answers": ["TV", "movie", "playing"]
+                        "answers": ["Sang", "Sung", "Singing"]
                     },
                     {
-                        "q": "My Lolo is going to take us outside to play",
+                        "q": "Point",
                         "correctAns": 1,
                         "answer": -1,
-                        "answers": ["us", "Lolo", "My"]
+                        "answers": ["Points", "Pointing", "Pointed"]
+                    },
+                    {
+                        "q": "Jump",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Jumped", "Jumping", "Jumps"]
                     }
                 ],
                 "score": 0
             }
+        },
+        "english": {
+
+        },
+        "reading": {
+
         }
     }
 }
