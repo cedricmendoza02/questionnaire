@@ -74,6 +74,42 @@
                 ],
                 "score": 0
             },
+            "sentence_nonsentence_3": {
+                "instructions": "Rearrange the sentence to form a complete thought.",
+                "questions": [
+                    {
+                        "q": "am, I, to, helpful, others",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["I helpful am others to", "I am helpful to others", "others am I helpful to"]
+                    },
+                    {
+                        "q": "We, our, keep, clean. classroom",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["classroom clean. We keep our", "our classroom clean. We our.", "We keep our classroom clean."]
+                    },
+                    {
+                        "q": "happy. us, can, make, Friends",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["us can make Friends happy.", "Friends can make us happy.", "happy. us make can Friends"]
+                    },
+                    {
+                        "q": "El Toro Loco, I, more than, like, Zombie Monster Truck.",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["like Zombie Monster Truck more than I El Toro Loco", "I like El Toro Loco more than Zombie Monster Truck."]
+                    },
+                    {
+                        "q": "pupils are They responsible",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["responsible pupils are They", "They are responsible pupils."]
+                    }
+                ],
+                "score": 0
+            },
             "using_be_verbs_Present": {
                 "instructions": "Select the correct be-verb",
                 "questions": [
