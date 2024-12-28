@@ -81,7 +81,7 @@
                         "q": "am, I, to, helpful, others",
                         "correctAns": 1,
                         "answer": -1,
-                        "answers": ["I helpful am others to", "I am helpful to others", "others am I helpful to"]
+                        "answers": ["I helpful am others to", "I am helpful to others.", "others am I helpful to"]
                     },
                     {
                         "q": "We, our, keep, clean. classroom",
@@ -106,6 +106,96 @@
                         "correctAns": 1,
                         "answer": -1,
                         "answers": ["responsible pupils are They", "They are responsible pupils."]
+                    }
+                ],
+                "score": 0
+            },
+            "action_words_or_verbs": {
+                "instructions": "Identify the action word or verb.",
+                "questions": [
+                    {
+                        "q": "I play with my El Toro Loco",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["with", "El Toro Loco", "play"]
+                    },
+                    {
+                        "q": "We eat rice and egg in the morning.",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["We", "morning", "eat"]
+                    },
+                    {
+                        "q": "I take a bath every day",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["I", "take", "bath"]
+                    },
+                    {
+                        "q": "My brother plays with my toys",
+                        "correctAns": 0,
+                        "answer": -1,
+                        "answers": ["plays", "My", "brother"]
+                    }
+                ],
+                "score": 0
+            },
+            "simple_present_tense_of_the_verb_1": {
+                "instructions": "Identify the correct present tense of the verb",
+                "questions": [
+                    {
+                        "q": "(eat) Anna ___ healthy snacks.",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["ate", "eating", "eats"]
+                    },
+                    {
+                        "q": "(cook) Mom ___ adobo.",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["cooked", "cooking", "cooks"]
+                    },
+                    {
+                        "q": "(fix) Dad ___ the aircon.",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["fixs", "fixed", "fixes"]
+                    },
+                    {
+                        "q": "(watch) Clarence ___ the TV.",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["watching", "watched", "watches"]
+                    }
+                ],
+                "score": 0
+            },
+            "simple_present_tense_of_the_verb_2": {
+                "instructions": "(verbs ending with x, h, o and s) Identify the correct present tense of the verb",
+                "questions": [
+                    {
+                        "q": "(eat) My parents ___ cookies",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["eats", "ate", "eat"]
+                    },
+                    {
+                        "q": "(cook) My grandparents ___ adobo.",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["cooked", "cooking", "cook"]
+                    },
+                    {
+                        "q": "(give) The doctors ___ medicine",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["fixs", "fixed", "fixes"]
+                    },
+                    {
+                        "q": "(catch) The police officers ___ the robbers.",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["caught", "catching", "catches"]
                     }
                 ],
                 "score": 0
