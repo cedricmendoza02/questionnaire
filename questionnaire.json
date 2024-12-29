@@ -559,6 +559,126 @@
                     }
                 ],
                 "score": 0
+            },
+            "present_progressive_tense_of_the_verb_2": {
+                "instructions": "For verbs ending with e, change e to -ing",
+                "questions": [
+                    {
+                        "q": "Dance",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Danceing", "Dancing"]
+                    },
+                    {
+                        "q": "Wake",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Wakeing", "Waking"]
+                    },
+                    {
+                        "q": "Rise",
+                        "correctAns": 0,
+                        "answer": -1,
+                        "answers": ["Rising", "Riseing"]
+                    },
+                    {
+                        "q": "Arrive",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Arriveing", "Arriving"]
+                    },
+                    {
+                        "q": "Chase",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Chaseing", "Chasing"]
+                    },
+                    {
+                        "q": "Place",
+                        "correctAns": 0,
+                        "answer": -1,
+                        "answers": ["Placing", "Placeing"]
+                    },
+                    {
+                        "q": "Leave",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Leaveing", "Leaving"]
+                    }
+                ],
+                "score": 0
+            },
+            "present_progressive_tense_of_the_verb_3": {
+                "instructions": "Identify the correct present progressive tense verb",
+                "questions": [
+                    {
+                        "q": "(watch) My brother and I are ___ Monster trucks on Youtube.",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["Watches", "Watched", "Watching"]
+                    },
+                    {
+                        "q": "(study) I love ___ math.",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Studied", "Studying", "Studies"]
+                    },
+                    {
+                        "q": "(wake) My brother is ___ up.",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Wakeing", "Waking", "Woke"]
+                    },
+                    {
+                        "q": "(read) My daddy is ___ his book.",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["read", "reads", "reading"]
+                    },
+                    {
+                        "q": "(chase) The police man is ___ the suspect.",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["Chaseing", "Chasing", "Chased"]
+                    }
+                ],
+                "score": 0
+            },
+            "future_tense_of_the_verb_1": {
+                "instructions": "Add will or shall with the base form of the verb. Identify the correct future tense of the verb",
+                "questions": [
+                    {
+                        "q": "(study) When I get in college, I ___ Algebra.",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["have studied", "will study", "shall studies"]
+                    },
+                    {
+                        "q": "(wake) My brother ___ up in the morning around 7AM",
+                        "correctAns": 2,
+                        "answer": -1,
+                        "answers": ["will woke", "has waken", "will wake"]
+                    },
+                    {
+                        "q": "(read) I ___ about science later to prepare for exams.",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["have read", "will read", "will have read"]
+                    },
+                    {
+                        "q": "(cook) My mother ___ my favorite ulam later.",
+                        "correctAns": 1,
+                        "answer": -1,
+                        "answers": ["have cooked", "will cook", "will be cooking"]
+                    },
+                    {
+                        "q": "(drive) My Father ___ our best choice e-bike this afternoon.",
+                        "correctAns": 0,
+                        "answer": -1,
+                        "answers": ["will drive", "will be driving", "will have driven"]
+                    }
+                ],
+                "score": 0
             }
         },
         "english": {
