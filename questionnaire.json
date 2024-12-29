@@ -681,51 +681,15 @@
                 "score": 0
             }
         },
-        "reading": {
-            "identifying_subjects": {
-                "instructions": "In one way or another, all of you belong to a group. You make up our family.",
+        "math": {
+            "ordering_sets": {
+                "instructions": "Ordering Sets: Least to Greatest",
                 "questions": [
                     {
-                        "q": "My Grave Digger is awesome",
+                        "q": "{8, 7, 9, 6}",
                         "correctAns": 1,
                         "answer": -1,
-                        "answers": ["my", "Grave Digger", "awesome"]
-                    },
-                    {
-                        "q": "The Zombie Monster Truck is doing wheelie on the track",
-                        "correctAns": 2,
-                        "answer": -1,
-                        "answers": ["track", "wheelie", "Zombie Monster Truck"]
-                    },
-                    {
-                        "q": "I study language subject",
-                        "correctAns": 1,
-                        "answer": -1,
-                        "answers": ["subject", "I", "language"]
-                    },
-                    {
-                        "q": "Clarence loves playing with his brother, Caleb",
-                        "correctAns": 2,
-                        "answer": -1,
-                        "answers": ["brother", "Caleb", "Clarence"]
-                    },
-                    {
-                        "q": "Mommy Alyssa loves my Daddy Cedric",
-                        "correctAns": 1,
-                        "answer": -1,
-                        "answers": ["Daddy Cedric", "Mommy Alyssa", "loves"]
-                    },
-                    {
-                        "q": "The TV is playing a movie",
-                        "correctAns": 0,
-                        "answer": -1,
-                        "answers": ["TV", "movie", "playing"]
-                    },
-                    {
-                        "q": "My Lolo is going to take us outside to play",
-                        "correctAns": 1,
-                        "answer": -1,
-                        "answers": ["us", "Lolo", "My"]
+                        "answers": ["{9,8,7,6}", "{6,7,8,9}"]
                     }
                 ],
                 "score": 0
