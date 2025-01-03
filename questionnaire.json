@@ -783,7 +783,7 @@
                     },
                     {
                         "q": "{3, 11, 5}",
-                        "correctAns": 1,
+                        "correctAns": 0,
                         "answer": -1,
                         "answers": ["3", "5", "11"]
                     },
